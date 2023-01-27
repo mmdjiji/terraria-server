@@ -1,0 +1,7 @@
+world=/opt/terraria/worlds/default.wld
+#autocreate=3
+#worldname=default
+#difficulty=0
+maxplayers=200
+password=terraria
+worldpath=/opt/terraria/worlds
